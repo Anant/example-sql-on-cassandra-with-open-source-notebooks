@@ -10,6 +10,7 @@ Introduction to a few open source notebooks that can be used to do SQL and joins
   1. [Presto and Cassandra](https://blog.anant.us/presto-and-cassandra/)
   2. [Spark and Cassandra](https://blog.anant.us/spark-and-cassandra-sql-on-cassandra/)
   3. [Open Source Notebooks and Cassandra](https://blog.anant.us/open-source-notebooks-and-cassandra-doing-sql-on-cassandra-tables/)
+  4. [Open Source BI Tools and Cassandra](https://blog.anant.us/open-source-bi-tools-and-cassandra/)
 
 ## [Quix Notebook](https://github.com/wix/quix)
 - No importable/exportable notebooks currently
